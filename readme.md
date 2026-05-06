@@ -84,8 +84,7 @@ To display the tabs in the UI, you must overwrite/update the following files in 
 
 | Printed Prescription (Dynamic) |
 | :---: |
-| ![Admin Dashboard](screenshot/opd-printable-eye-prescription.png
-)  |
+| ![Admin Dashboard](screenshot/opd-printable-eye-prescription.png) |
 
 ---
 
