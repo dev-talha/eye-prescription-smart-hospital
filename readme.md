@@ -78,13 +78,14 @@ To display the tabs in the UI, you must overwrite/update the following files in 
 
 ## 📸 Screenshots
 
-| Admin Dashboard (Add Prescription) | Patient Portal (View Modal) |
-| :---: | :---: |
-| ![Admin Dashboard](screenshot/ipd-eye-prescription.png)  | *(Add Screenshot Here)* |
+| Admin Dashboard (Add Prescription) | 
+| :---: | 
+| ![Admin Dashboard](screenshot/ipd-eye-prescription.png)  | 
 
 | Printed Prescription (Dynamic) |
 | :---: |
-| *(Add Screenshot Here)* |
+| ![Admin Dashboard](screenshot/opd-printable-eye-prescription.png
+)  |
 
 ---
 
