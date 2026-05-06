@@ -1,6 +1,6 @@
 # Smart Hospital - Ophthalmology (Eye Prescription) Module
 
-An advanced **Ophthalmology & Eye Prescription Module** built as a custom extension for the [**Smart Hospital Management System**](https://codecanyon.net/item/smart-hospital-hospital-management-system/23205038) (CodeIgniter 3). This module allows doctors and hospital staff to manage eye prescriptions, vision tests, and ophthalmic records efficiently, with a seamless experience for patients to view and print their records directly from the patient portal.
+An advanced **Ophthalmology & Eye Prescription Module** built as a custom extension for the [**Smart Hospital Management  - Version 6.0**](https://codecanyon.net/item/smart-hospital-hospital-management-system/23205038) (CodeIgniter 3). This module allows doctors and hospital staff to manage eye prescriptions, vision tests, and ophthalmic records efficiently, with a seamless experience for patients to view and print their records directly from the patient portal.
 
 ## 🌟 Key Features
 
