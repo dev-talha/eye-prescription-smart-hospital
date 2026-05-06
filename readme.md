@@ -80,7 +80,7 @@ To display the tabs in the UI, you must overwrite/update the following files in 
 
 | Admin Dashboard (Add Prescription) | Patient Portal (View Modal) |
 | :---: | :---: |
-| *(https://github.com/dev-talha/eye-prescription-smart-hospital/blob/main/screenshot/ipd-eye-prescription.png?raw=true)* | *(Add Screenshot Here)* |
+| ![Admin Dashboard](screenshot/ipd-eye-prescription.png)  | *(Add Screenshot Here)* |
 
 | Printed Prescription (Dynamic) |
 | :---: |
